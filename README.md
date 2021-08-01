@@ -1,5 +1,7 @@
 # Single-cell function library
-Custom code used in "Single-cell characterization of macrophages in glioblastoma reveals MARCO as a mesenchymal pro-tumor marker"
+Custom code developed for the following publications:
+- "Single-cell characterization of macrophages in glioblastoma reveals MARCO as a mesenchymal pro-tumor marker" by Chen*, Gartrell*, et al.
+- "ERK1/2 phosphorylation predicts survival following anti-PD-1 immunotherapy in recurrent glioblastoma" by Arrieta*, Chen*, et al.
 
 Dependencies:
 
